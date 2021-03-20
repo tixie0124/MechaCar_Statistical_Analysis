@@ -30,6 +30,7 @@ Since the p value(0.05734) is above 0.05, we failed to reject the null hypothesi
 ![alt text](https://github.com/tixie0124/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot_1.PNG)<br />
 H0: there is no significant difference between lot 1 PSI and the population PSI.<br />
 Ha: there is significant difference between lot 1 PSI and the population PSI.<br />
+
 Since the p value(0.9982) is above 0.05, we failed to reject the null hypothesis on the 95% confidence level.<br />
 
 
@@ -37,6 +38,7 @@ Since the p value(0.9982) is above 0.05, we failed to reject the null hypothesis
 ![alt text](https://github.com/tixie0124/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot_2.PNG)<br />
 H0: there is no significant difference between lot 2 PSI and the population PSI.<br />
 Ha: there is significant difference between lot 2 PSI and the population PSI.<br />
+
 Since the p value(0.6115) is above 0.05, we failed to reject the null hypothesis on the 95% confidence level.<br />
 
 
@@ -44,4 +46,18 @@ Since the p value(0.6115) is above 0.05, we failed to reject the null hypothesis
 ![alt text](https://github.com/tixie0124/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot_3.PNG)<br />
 H0: there is no significant difference between lot 3 PSI and the population PSI.<br />
 Ha: there is significant difference between lot 3 PSI and the population PSI.<br />
+
 Since the p value(0.03966) is below 0.05, null is rejected on the 95% confidence level.<br />
+
+
+
+## Study Design: MechaCar vs Competition
+To assess the performance of MechaCar against its competitor, the metric that will be used it the defect rate of the car in the proceeding five years after a vehicle is sold. 
+A group of randomly selected MechaCar will be compared against randomly selected cars of similar class produced by the competitors. A two-tailed t test is necessary since both groups are sample groups. The null and alternative hypothesis are the following:<br />
+Null: there are no significant difference in the defect rate of MechaCar in the preceeding five years after the vehicle is first sold comare to the defect rate of its competitors<br />
+AlternativeL: there are significant difference in the defect rate of MechaCar in the preceeding five years after the vehicle is first sold comare to the defect rate of its competitors<br />
+
+To make the study possible, the manufacturer needs to collect and measure te defect rates of the MechaCar that it sells. The same data needs to be made available by the competitors. 
+
+
+
