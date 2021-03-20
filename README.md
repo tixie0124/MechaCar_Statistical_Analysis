@@ -17,7 +17,7 @@ Lot2 has the highest average suspention coil PSI. The suspension coil PSI of lot
 
 ## T-Tests on Suspension Coils
 
-**Comparing all manufacturing lots against mean PSI of the population(1500)**
+**Comparing all manufacturing lots against mean PSI of the population(1500):**
 ![alt text](https://github.com/tixie0124/MechaCar_Statistical_Analysis/blob/main/images/t_test_total.PNG)<br />
 
 H0: there is no significant difference between the manufacturing lots PSI and the population PSI.<br />
@@ -25,19 +25,22 @@ Ha: there is significant difference between the manufacturing lots PSI and the p
 
 Since the p value(0.05734) is above 0.05, we failed to reject the null hypothesis on the 95% confidence level.<br />
 
-**Comparing lot 1 PSI against mean PSI of populatioin**<br />
+
+**Comparing lot 1 PSI against mean PSI of populatioin:**<br />
 ![alt text](https://github.com/tixie0124/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot_1.PNG)<br />
 H0: there is no significant difference between lot 1 PSI and the population PSI.<br />
 Ha: there is significant difference between lot 1 PSI and the population PSI.<br />
 Since the p value(0.9982) is above 0.05, we failed to reject the null hypothesis on the 95% confidence level.<br />
 
-**Comparing lot 2 PSI against mean PSI of population**<br />
+
+**Comparing lot 2 PSI against mean PSI of population:**<br />
 ![alt text](https://github.com/tixie0124/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot_2.PNG)<br />
 H0: there is no significant difference between lot 2 PSI and the population PSI.<br />
 Ha: there is significant difference between lot 2 PSI and the population PSI.<br />
 Since the p value(0.6115) is above 0.05, we failed to reject the null hypothesis on the 95% confidence level.<br />
 
-**Comparing lot 3 PSI against mean PSI of population**<br />
+
+**Comparing lot 3 PSI against mean PSI of population:**<br />
 ![alt text](https://github.com/tixie0124/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot_3.PNG)<br />
 H0: there is no significant difference between lot 3 PSI and the population PSI.<br />
 Ha: there is significant difference between lot 3 PSI and the population PSI.<br />
