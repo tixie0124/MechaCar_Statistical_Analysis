@@ -25,7 +25,7 @@ Ha: there is significant difference between the manufacturing lots PSI and the p
 
 Since the p value(0.05734) is above 0.05, we failed to reject the null hypothesis on the 95% confidence level.<br />
 
-**Comparing lot 1 PSI against mean PSI of populatioin**
+**Comparing lot 1 PSI against mean PSI of populatioin**<br />
 ![alt text](https://github.com/tixie0124/MechaCar_Statistical_Analysis/blob/main/images/t_test_lot_1.PNG)<br />
 H0: there is no significant difference between lot 1 PSI and the population PSI.<br />
 Ha: there is significant difference between lot 1 PSI and the population PSI.<br />
